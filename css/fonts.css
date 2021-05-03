@@ -1,0 +1,66 @@
+/* Circe */
+@font-face {
+    font-family: 'Circe';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Circe'),
+        url('../fonts/circe-regular/Circe-Regular.eot') format('embedded-opentype'), 
+        url('../fonts/circe-regular/Circe-Regular.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/circe-regular/Circe-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/* Dinpro */
+@font-face {
+    font-family: 'Dinpro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Dinpro'),
+        url('../fonts/dinpro/DINPro.eot') format('embedded-opentype'), 
+        url('../fonts/dinpro/DINPro.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/dinpro/DINPro.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/* Dinpro-bold */
+@font-face {
+    font-family: 'Dinpro-bold';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Dinpro-bold'),
+        url('../fonts/dinpro-bold/DINPro.eot') format('embedded-opentype'), 
+        url('../fonts/dinpro-bold/DINPro.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/dinpro-bold/DINPro.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/* Gilroy extrabold */
+@font-face {
+    font-family: 'Gilroy-extrabold';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Gilroy-extrabold'),
+        url('../fonts/gilroy-extrabold/Gilroy-ExtraBold.eot') format('embedded-opentype'), 
+        url('../fonts/gilroy-extrabold/Gilroy-ExtraBold.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/gilroy-extrabold/Gilroy-ExtraBold.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/* Gilroy-light */
+@font-face {
+    font-family: 'Gilroy-light';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Gilroy-light'),
+        url('../fonts/gilroy-light/Gilroy-Light.eot') format('embedded-opentype'), 
+        url('../fonts/gilroy-light/Gilroy-Light.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/gilroy-light/Gilroy-Light.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/* Gilroy-regular */
+@font-face {
+    font-family: 'Gilroy-regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Gilroy-regular'),
+        url('../fonts/gilroy-regular/Gilroy-Regular.eot') format('embedded-opentype'), 
+        url('../fonts/gilroy-regular/Gilroy-Regular.woff') format('woff'), /* Modern Browsers */
+        url('../fonts/gilroy-regular/Gilroy-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
